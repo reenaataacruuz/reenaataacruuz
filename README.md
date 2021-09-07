@@ -2,7 +2,7 @@
 - 👀 I'm interested in technology and development
 - 💞️ I'm looking to collaborate on a web development team
 - 📫 How to reach me https://cv-renata-cruz.vercel.app
-
+##
 <div>
   <a href="https://github.com/reenaataacruuz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reenaataacruuz&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
