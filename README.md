@@ -11,7 +11,7 @@
 
 ### 
 <div align="center">
-  <p font=Kalam>Main skills:</p>
+  <p style="font-family:Kalam">Main skills:</p>
   
   ![Cucumber](https://img.shields.io/badge/-Cucumber-0D1117?style=for-the-badge&logo=Cucumber&labelColor=0D1117)&nbsp;
   ![Ruby](https://img.shields.io/badge/-Ruby-0D1117?style=for-the-badge&logo=ruby&labelColor=0D1117)&nbsp;
