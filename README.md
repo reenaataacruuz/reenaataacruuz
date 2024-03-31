@@ -58,13 +58,13 @@
 </p>
 
 <a> 
-    <a href="https://github.com/reenaataacruuz"><img alt="Renata Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=reenaataacruuz&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/reenaataacruuz"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=reenaataacruuz&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/reenaataacruuz"><img alt="Renata CruzGithub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=reenaataacruuz&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/reenaataacruuz"><img alt="Renata Cruz Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=reenaataacruuz&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Renata Cruz Graph](https://github-readme-activity-graph.vercel.app/graph?username=reenaataacruuz&custom_title=Renata%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Renata Cruz Graph](https://github-readme-activity-graph.vercel.app/graph?username=reenaataacruuz&custom_title=Renata%20Cruz%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reenaataacruuz&bg_color=e3bacf&color=000000&line=c10bb5&point=fb00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
