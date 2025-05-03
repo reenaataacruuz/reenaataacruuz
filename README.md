@@ -33,7 +33,6 @@ Olá! Sou a Renata, QA e atuo em testes manuais e automatizados para aplicaçõe
 
 - ✔️ **Testes modulares**, reutilizáveis e escaláveis
 - ✔️ **Cobertura E2E** com execução em múltiplas plataformas
-- ✔️ Integração contínua com **CI/CD**
 - ✔️ Organização por **Feature** e boas práticas de versionamento
 - ✔️ **Relatórios visuais** e métricas de qualidade
 - ✔️ Conhecimento em BDD para descrever testes de forma mais legível e colaborativa
