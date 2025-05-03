@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#a29bfe;">🌸 QA Automation • Web Mobile • Web Desktop 🌸</h1>
+<h1 align="center" style="color:#a29bfe;">🌸 QA Test Analyst • Manual & Test Automation 🌸</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PLATAFORMAS-Web%20Mobile%20%7C%20Web%20Desktop%20%7C%20API-dcd6f7?style=for-the-badge&logo=googlechrome&logoColor=white" />
