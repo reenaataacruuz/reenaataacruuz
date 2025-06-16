@@ -20,6 +20,7 @@ Olá! Sou a Renata, QA e atuo em testes manuais e automatizados para aplicaçõe
 | [`📱 mobile-desktop-e2e`](https://github.com/reenaataacruuz/burger-eats-web) | Automação E2E com Cypress e integração Tesults. | [🔗 PRs](https://github.com/reenaataacruuz/burger-eats-web/pulls) | [📊 Commits](https://github.com/reenaataacruuz/burger-eats-web/commits/release) |
 | [`🌐 cv-project`](https://github.com/reenaataacruuz/renata-cruz) | Criando um projeto pessoal| [🔗 PRs](https://github.com/reenaataacruuz/renata-cruz/pulls) | [📊 Commits](https://github.com/reenaataacruuz/renata-cruz/commits/master) |
 | [`🧪 api-project`](https://github.com/reenaataacruuz/fake-store-api-tests-cypress) | Fake store API - CRUD| [🔗 PRs](https://github.com/reenaataacruuz/fake-store-api-tests-cypress/pulls) | [📊 Commits](https://github.com/reenaataacruuz/fake-store-api-tests-cypress/commits/master) |
+| [`🔁 CI/CD: Fake test`](https://github.com/reenaataacruuz/devops-pipeline) | Fake test CI/CD| [🔗 PRs](https://github.com/reenaataacruuz/devops-pipeline/pulls) | [📊 Commits](https://github.com/reenaataacruuz/devops-pipeline/commits/master) |
 
 ---
 
