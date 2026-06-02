@@ -8,14 +8,14 @@
 
 ---
 
-## ✨ Sobre Mim
+## Sobre mim
 
 Olá! Sou a **Renata**, Analista de QA com foco em garantir a qualidade de aplicações **Web (Desktop & Mobile) e APIs**. 
 Tenho experiência no ciclo completo de testes — desde o planejamento e escrita de cenários até a automação de testes E2E e integração contínua (CI/CD). Sempre em busca de utilizar boas práticas de desenvolvimento (como clean code e Page Objects) e do uso de BDD para integrar a comunicação entre as equipes técnicas e de negócios.
 
 ---
 
-## 🔍 Projetos em Destaque
+## Projetos
 | Projeto | Descrição | PRs | Commits |
 |--------|-----------|-----|---------|
 | [`📱 mobile-desktop-e2e`](https://github.com/reenaataacruuz/burger-eats-web) | Automação E2E com Cypress e integração Tesults. | [🔗 PRs](https://github.com/reenaataacruuz/burger-eats-web/pulls) | [📊 Commits](https://github.com/reenaataacruuz/burger-eats-web/commits/release) |
@@ -24,7 +24,7 @@ Tenho experiência no ciclo completo de testes — desde o planejamento e escrit
 
 ---
 
-## 🛠️ Habilidades & Tecnologias
+## Habilidades e tecnologias
 <table>
   <tr>
     <td><b>Linguagens e frameworks</b></td>
@@ -62,7 +62,7 @@ Tenho experiência no ciclo completo de testes — desde o planejamento e escrit
 
 ---
 
-## 🌷 Entre em Contato
+## Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-a29bfe?style=flat&logo=linkedin)](https://www.linkedin.com/in/renataceliacruz)
 [![Telegram](https://img.shields.io/badge/Telegram-@reenaataacruuz-dcd6f7?style=flat&logo=telegram)](https://t.me/reenaataacruuz)
