@@ -62,7 +62,7 @@ Tenho experiência no ciclo completo de testes — desde o planejamento e escrit
 
 ---
 
-## Entre em contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-a29bfe?style=flat&logo=linkedin)](https://www.linkedin.com/in/renataceliacruz)
 [![Telegram](https://img.shields.io/badge/Telegram-@reenaataacruuz-dcd6f7?style=flat&logo=telegram)](https://t.me/reenaataacruuz)
