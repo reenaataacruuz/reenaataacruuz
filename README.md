@@ -24,13 +24,6 @@ Olá! Sou a Renata, QA e atuo em testes manuais e automatizados para aplicaçõe
 
 ---
 
-## 📚 Conteúdo Técnico no meu blog – Dicas e Guias de Automação
-
-- [✅ Configurando uma pipeline no Bitbucket com Cypress](https://renata-cruz.vercel.app/codigo-cypress.html)
-- [📓Em breve: Guia Rápido de Cypress](https://renata-cruz.vercel.app/blog.html)
-
----
-
 ## 💡 Meus Diferenciais
 
 - ✔️ **Testes modulares**, reutilizáveis e escaláveis
